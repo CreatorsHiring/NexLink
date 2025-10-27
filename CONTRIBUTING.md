@@ -17,12 +17,12 @@ We welcome contributions of all kinds — bug fixes, new features, documentation
    git commit -m "Description of changes"
    git push origin feature-name
    
-##💬 Code of Conduct
+## 💬 Code of Conduct
 
 Be kind, respectful, and constructive.
 We’re all here to learn and grow together 💪
 
-##🌟 Suggestions Welcome
+## 🌟 Suggestions Welcome
 
 If you have feature ideas or want to report issues, please use the Issues tab.
 We’d love to hear from you!
