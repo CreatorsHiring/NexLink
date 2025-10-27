@@ -18,17 +18,17 @@ It’s a place where programmers can **share their progress**, **seek support**,
 ## 🏗️ Tech Stack
 
 **Frontend**
-- HTML5, CSS3, JavaScript (React / Next.js — if applicable)
+- HTML5, CSS3, JavaScript (React / Next.js)
 - Tailwind CSS or Material UI for styling
 
 **Backend**
 - Node.js + Express.js
-- MongoDB (or your chosen database)
+- MongoDB
 
 **Other Tools**
 - JWT Authentication
 - REST APIs / GraphQL
-- Cloud / GitHub Integration (future scope)
+- Cloud / GitHub Integration
 
 ---
 
