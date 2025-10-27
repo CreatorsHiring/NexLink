@@ -53,8 +53,28 @@ body{
 }
 
 .services{
+    display: flex;
+    flex-direction: column;
     background-color: violet;
+}
+
+.service , .service2{
+    margin-left: 50px;
+    height: 200px;
+}
+
+.service{
     
+    background-color: rgb(206, 206, 206);
+}
+
+.service2{
+    background-color: rgb(255, 255, 255);
+}
+
+.f{
+    text-align: center;
+    margin-top: 20px;
 }
 
 
