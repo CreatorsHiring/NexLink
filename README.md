@@ -40,3 +40,9 @@ where coding journeys are shared, collaborations spark, and ideas grow into proj
 We believe developers deserve their own professional network — not just a generic one.
 
 ---
+
+```markdown
+## 🤝 Contributing
+
+We welcome developers to join the NexLink journey!  
+Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
