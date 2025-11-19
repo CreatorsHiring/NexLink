@@ -1,3 +1,3 @@
 document.querySelector('.loginbtn').addEventListener('click', () =>{
-    window.location.href = 'login.ejs';
+    window.location.href = '/login';
 });
