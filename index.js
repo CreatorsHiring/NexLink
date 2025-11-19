@@ -20,7 +20,7 @@ app.get('/login', (req, res) => {
 
 app.post('/home', (req, res) => {
   const { username, password } = req.body;
-  res.send(`Welcome ${username}!`);
+  res.render('home', {username});
 });
 
 app.use((req,res)=>{
