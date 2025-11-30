@@ -16,7 +16,9 @@ We welcome contributions of all kinds — bug fixes, new features, documentation
    git add .
    git commit -m "Description of changes"
    git push origin feature-name
-   
+3. **Install** dependices
+   ```bash
+   npm install    
 ## 💬 Code of Conduct
 
 Be kind, respectful, and constructive.
