@@ -31,3 +31,77 @@ body{
     align-items: center;
     gap: 10px;
 }
+
+.content{
+    margin-top: 100px;
+    background-color: rgb(135, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content-container{
+    background-color: violet;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.head{
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.post-b{
+    background-color: lightgreen;
+}
+
+.media {
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.media video {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.likes-and-count{
+    background-color: lightgray;
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.features{
+    background-color: lightblue;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.comment-box{
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.c-head{
+    background-color: lightyellow;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.like{
+    background-color: red;
+}
+.liked{
+    background-color: green;
+}

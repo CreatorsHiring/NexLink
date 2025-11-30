@@ -5,19 +5,35 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NexLink</title>
         <link rel="stylesheet" href="styles/login.css">
+        <link rel="stylesheet" href="/fa/css/all.css">
     </head>
 
 <body>
     <div class="loginpanel">
-        <h2>Log In</h2>
-        <form method="post" action="/home">
-            <label for="username">Username:</label><br>
-            <input type="text" id="username" name="username" required><br><br>
-            <label for="password">Password:</label><br>
-            <input type="password" id="password" name="password" required><br><br>
-            <input type="submit" value="Log In">
+        
+        <h2 class="form-h">Log In</h2>
 
+        
+
+        <form method="post" action="/home">
+        <div class="form-b">
+
+            <div class="form-username">
+            <i class="fa-solid fa-circle-user" style="color: #ababab;"></i>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" placeholder="Enter Your Username" required>
+            </div>
+
+            <div class="form-password">
+            <i class="fa-solid fa-key" style="color: #ababab;"></i>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="Enter Your Password" required>
+            </div>
+            <button type="submit" class="form-s">Log In</button>
+        </div>
         </form>
+        
+        
     </div>
 </body>
 
